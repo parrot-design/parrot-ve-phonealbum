@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 've-phone-iconfont';  /* Project id 2913972 */
+  src: url('//at.alicdn.com/t/font_2913972_530os5ci8sa.woff2?t=1636442036605') format('woff2'),
+       url('//at.alicdn.com/t/font_2913972_530os5ci8sa.woff?t=1636442036605') format('woff'),
+       url('//at.alicdn.com/t/font_2913972_530os5ci8sa.ttf?t=1636442036605') format('truetype');
+}
+
+.ve-phone-iconfont {
+  font-family: "ve-phone-iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-24gf-grid:before {
+  content: "\eaa2";
+}
+
+.icon-guanbi:before {
+  content: "\eaf2";
+}
+
+.icon-youjiantou:before {
+  content: "\e624";
+}
+
+.icon-zuojiantou:before {
+  content: "\e625";
+}
+
+.icon-sousuo:before {
+  content: "\e8ba";
+}
+
+.icon-zanting:before {
+  content: "\e87a";
+}
+
+.icon-bofang:before {
+  content: "\e87c";
+}
+
